@@ -2,7 +2,7 @@
 
 // Solde du compte courant ajouté
 export const checkingAccountBalance = 5000; // Exemple de solde compte courant
-export const logoUrl = "https://www.logo.wine/a/logo/Citibank/Citibank-Logo.wine.svg"; // Exemple de solde compte courant
+export const logoUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHAXvODLC8C2qgmCVfv5HyG1CvAYm1ey9dzA&s"; // Exemple de solde compte courant
 
 // Solde du prêt ajouté
 export const loanBalance = 100000; // Exemple de solde de prêt
